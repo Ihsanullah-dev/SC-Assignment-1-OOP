@@ -50,7 +50,7 @@ The balance cannot be negative, and the PIN is assigned only through the constru
 **Files:**
 
 * `DigitalWallet.java`
-* `WalletDemo.java`
+* `WalletMain.java`
 
 ---
 
@@ -98,7 +98,7 @@ The bulb provides brightness control, while the thermostat provides temperature 
 * `SmartDevice.java`
 * `SmartBulb.java`
 * `SmartThermostat.java`
-* `SmartDeviceDemo.java`
+* `SmartDeviceMain.java`
 
 ---
 
@@ -149,9 +149,9 @@ The code was improved by:
 
 | Task   | Main Class        |
 | ------ | ----------------- |
-| Task 1 | `WalletDemo`      |
+| Task 1 | `WalletMain`      |
 | Task 2 | `Task2Main`       |
-| Task 3 | `SmartDeviceDemo` |
+| Task 3 | `SmartDeviceMain` |
 | Task 4 | `LibraryMain`     |
 
 ---
